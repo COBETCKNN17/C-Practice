@@ -1,0 +1,11 @@
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/CollectionsPractice/bin/Debug/netcoreapp2.1/CollectionsPractice.deps.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/CollectionsPractice/bin/Debug/netcoreapp2.1/CollectionsPractice.runtimeconfig.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/CollectionsPractice/bin/Debug/netcoreapp2.1/CollectionsPractice.runtimeconfig.dev.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/CollectionsPractice/bin/Debug/netcoreapp2.1/CollectionsPractice.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/CollectionsPractice/bin/Debug/netcoreapp2.1/CollectionsPractice.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.csprojAssemblyReference.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.csproj.CoreCompileInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.AssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.pdb

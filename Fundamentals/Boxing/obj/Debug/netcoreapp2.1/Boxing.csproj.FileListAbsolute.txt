@@ -1,0 +1,11 @@
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Boxing/obj/Debug/netcoreapp2.1/Boxing.csprojAssemblyReference.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Boxing/obj/Debug/netcoreapp2.1/Boxing.csproj.CoreCompileInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Boxing/obj/Debug/netcoreapp2.1/Boxing.AssemblyInfoInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Boxing/obj/Debug/netcoreapp2.1/Boxing.AssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Boxing/bin/Debug/netcoreapp2.1/Boxing.deps.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Boxing/bin/Debug/netcoreapp2.1/Boxing.runtimeconfig.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Boxing/bin/Debug/netcoreapp2.1/Boxing.runtimeconfig.dev.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Boxing/bin/Debug/netcoreapp2.1/Boxing.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Boxing/bin/Debug/netcoreapp2.1/Boxing.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Boxing/obj/Debug/netcoreapp2.1/Boxing.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Boxing/obj/Debug/netcoreapp2.1/Boxing.pdb

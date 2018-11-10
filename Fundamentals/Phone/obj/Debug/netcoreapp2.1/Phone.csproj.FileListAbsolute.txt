@@ -1,0 +1,11 @@
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Phone/bin/Debug/netcoreapp2.1/Phone.deps.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Phone/bin/Debug/netcoreapp2.1/Phone.runtimeconfig.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Phone/bin/Debug/netcoreapp2.1/Phone.runtimeconfig.dev.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Phone/bin/Debug/netcoreapp2.1/Phone.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Phone/bin/Debug/netcoreapp2.1/Phone.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Phone/obj/Debug/netcoreapp2.1/Phone.csprojAssemblyReference.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Phone/obj/Debug/netcoreapp2.1/Phone.csproj.CoreCompileInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Phone/obj/Debug/netcoreapp2.1/Phone.AssemblyInfoInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Phone/obj/Debug/netcoreapp2.1/Phone.AssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Phone/obj/Debug/netcoreapp2.1/Phone.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Phone/obj/Debug/netcoreapp2.1/Phone.pdb

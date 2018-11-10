@@ -1,0 +1,11 @@
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/WizardNinjaSamurai/bin/Debug/netcoreapp2.1/WizardNinjaSamurai.deps.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/WizardNinjaSamurai/bin/Debug/netcoreapp2.1/WizardNinjaSamurai.runtimeconfig.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/WizardNinjaSamurai/bin/Debug/netcoreapp2.1/WizardNinjaSamurai.runtimeconfig.dev.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/WizardNinjaSamurai/bin/Debug/netcoreapp2.1/WizardNinjaSamurai.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/WizardNinjaSamurai/bin/Debug/netcoreapp2.1/WizardNinjaSamurai.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/WizardNinjaSamurai/obj/Debug/netcoreapp2.1/WizardNinjaSamurai.csprojAssemblyReference.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/WizardNinjaSamurai/obj/Debug/netcoreapp2.1/WizardNinjaSamurai.csproj.CoreCompileInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/WizardNinjaSamurai/obj/Debug/netcoreapp2.1/WizardNinjaSamurai.AssemblyInfoInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/WizardNinjaSamurai/obj/Debug/netcoreapp2.1/WizardNinjaSamurai.AssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/WizardNinjaSamurai/obj/Debug/netcoreapp2.1/WizardNinjaSamurai.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/WizardNinjaSamurai/obj/Debug/netcoreapp2.1/WizardNinjaSamurai.pdb

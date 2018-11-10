@@ -1,0 +1,69 @@
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.deps.json
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.runtimeconfig.json
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.runtimeconfig.dev.json
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.dll
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.pdb
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.csprojAssemblyReference.cache
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.csproj.CoreCompileInputs.cache
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.RazorAssemblyInfo.cache
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.RazorAssemblyInfo.cs
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.AssemblyInfoInputs.cache
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.AssemblyInfo.cs
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.RazorTargetAssemblyInfo.cache
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.dll
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.pdb
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.Views.dll
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.Views.pdb
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.TagHelpers.input.cache
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.TagHelpers.output.cache
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.RazorCoreGenerate.cache
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/Razor/Views/Home/index.g.cshtml.cs
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.RazorTargetAssemblyInfo.cs
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.Views.pdb
+C:/Users/13143/Desktop/C#/ASPNetCore/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.csproj.CopyComplete
+/Users/boldgoldman/Downloads/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.deps.json
+/Users/boldgoldman/Downloads/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.runtimeconfig.json
+/Users/boldgoldman/Downloads/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.runtimeconfig.dev.json
+/Users/boldgoldman/Downloads/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.dll
+/Users/boldgoldman/Downloads/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.pdb
+/Users/boldgoldman/Downloads/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.Views.dll
+/Users/boldgoldman/Downloads/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.Views.pdb
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.csprojAssemblyReference.cache
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.csproj.CoreCompileInputs.cache
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.RazorAssemblyInfo.cache
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.RazorAssemblyInfo.cs
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.AssemblyInfoInputs.cache
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.AssemblyInfo.cs
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.TagHelpers.input.cache
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.TagHelpers.output.cache
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.RazorCoreGenerate.cache
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/Razor/Views/Home/index.g.cshtml.cs
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.RazorTargetAssemblyInfo.cache
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.RazorTargetAssemblyInfo.cs
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.Views.pdb
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.dll
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.pdb
+/Users/boldgoldman/Downloads/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.csproj.CopyComplete
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.csprojAssemblyReference.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.csproj.CoreCompileInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.RazorAssemblyInfo.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.RazorAssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.AssemblyInfoInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.AssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.TagHelpers.input.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.TagHelpers.output.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.RazorCoreGenerate.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.deps.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.runtimeconfig.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.runtimeconfig.dev.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.Views.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/bin/Debug/netcoreapp2.1/RandomPass.Views.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/Razor/Views/Home/index.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.RazorTargetAssemblyInfo.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.RazorTargetAssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.Views.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC II/RandomPass/obj/Debug/netcoreapp2.1/RandomPass.csproj.CopyComplete

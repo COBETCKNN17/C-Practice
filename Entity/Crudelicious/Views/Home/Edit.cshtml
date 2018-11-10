@@ -1,0 +1,42 @@
+@model Crudelicious.Models.Dish
+@{
+    ViewData["Title"] = "Edit Dish Page";
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv='X-UA-compatible' content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous">
+    <title>CRUDelicious</title>
+</head>
+
+<body>
+    <div id="container">
+        <h5>Edit a Dish!</h5>
+        <a href="/">Home</a>
+        <form asp-action="Update" method="POST">
+        <div class="row">
+            <div class="col-sm">
+                <table cellpadding="10px">
+                <tr>
+                    <p>Dish Name<input type="text" value="@ViewBag.ShownDish.Name" name="Name"></p>
+                    <p>Dish Chef<input type="text" value="@ViewBag.ShownDish.Chef" name="Chef"></p>
+                    <p>Dish Description<input type="text" value="@ViewBag.ShownDish.Description" name="Description"></p>
+                    <p>Dish Tastiness<input type="text" value="@ViewBag.ShownDish.Tastiness" name="Tastiness"></p>
+                    <p>Dish Calories<input type="text" value="@ViewBag.ShownDish.Calories" name="Calories"></p>
+                </tr>
+                </table>
+            </div>
+            <div class="col-sm">
+            </div>
+            <input type="submit">
+        </form>
+        </div>
+    </div>
+</body>
+
+</html>

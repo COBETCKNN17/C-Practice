@@ -1,0 +1,14 @@
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.deps.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.runtimeconfig.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.runtimeconfig.dev.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.csprojAssemblyReference.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.csproj.CoreCompileInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.RazorAssemblyInfo.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.RazorAssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.AssemblyInfoInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.AssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.RazorTargetAssemblyInfo.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.pdb

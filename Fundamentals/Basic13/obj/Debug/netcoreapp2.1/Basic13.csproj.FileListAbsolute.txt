@@ -1,0 +1,11 @@
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Basic13/obj/Debug/netcoreapp2.1/Basic13.csprojAssemblyReference.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Basic13/obj/Debug/netcoreapp2.1/Basic13.csproj.CoreCompileInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Basic13/obj/Debug/netcoreapp2.1/Basic13.AssemblyInfoInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Basic13/obj/Debug/netcoreapp2.1/Basic13.AssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Basic13/bin/Debug/netcoreapp2.1/Basic13.deps.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Basic13/bin/Debug/netcoreapp2.1/Basic13.runtimeconfig.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Basic13/bin/Debug/netcoreapp2.1/Basic13.runtimeconfig.dev.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Basic13/bin/Debug/netcoreapp2.1/Basic13.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Basic13/bin/Debug/netcoreapp2.1/Basic13.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Basic13/obj/Debug/netcoreapp2.1/Basic13.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Fundamentals/Basic13/obj/Debug/netcoreapp2.1/Basic13.pdb

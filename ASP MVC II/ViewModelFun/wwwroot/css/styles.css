@@ -1,0 +1,13 @@
+#title, h4, p {
+    text-align: center;
+}
+
+#users_list {
+    text-align: center;
+    width: auto;
+    margin-left: 600px; 
+    margin-right: 600px; 
+    border: 2px solid black;
+    padding: 25px;
+
+}

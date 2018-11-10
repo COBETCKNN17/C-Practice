@@ -1,0 +1,14 @@
+{
+  "name": "asp-mvc",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "generator-dojoman": "^0.2.1"
+  }
+}

@@ -1,0 +1,53 @@
+@using DojoSurvey_Validation.Models; 
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <title>Dojo Survey</title>
+    <meta charset='utf-8'/>
+    <link rel='stylesheet' type='text/css' href='~/css/styles.css'>
+</head>
+<body>
+    <div id='wrapper'>
+        <h1>Dojo Survey</h1><br>
+        <form id="userform" action="userformsubmit" method="post">
+            <div id="formlabels">
+                <label for="name">Your Name:</label><br>
+                <label for="location">Dojo Location:</label><br>
+                <label for="language">Favorite Language:</label><br>
+                <label for="comment">Comment (optional):</label><br>
+            </div>
+            @model Survey
+            <div id="formfields">
+                <input asp-for="Username"><br>
+                <select asp-for="Location" name="location" id='location'>
+                    <option value='seattle'>Seattle</option>
+                    <option value='siliconvalley'>Silicon Valley</option>
+                    <option value='losangeles'>Los Angeles</option>
+                    <option value='dallas'>Dallas</option>
+                    <option value='washingtondc'>Washington DC</option>
+                    <option value='chicago'>Chicago</option>
+                    <option value='tulsa'>Tulsa</option>
+                </select><br>
+                <select asp-for="Language" name="language" id='language'>
+                    <option value='sql'>SQL</option>     
+                    <option value='java'>Java</option>     
+                    <option value='python'>Python</option>     
+                    <option value='javascript'>Javascript</option>     
+                    <option value='csharp'>C#</option>
+                    <option value='perl'>Perl</option>
+                    <option value='php'>PHP</option>
+                </select><br>
+                <span asp-validation-for="Comments"></span>
+                <textarea asp-for="Comments" name="comments" id="comments" cols="60" rows="4"></textarea>
+                <br>
+                <button type="submit" id="button" value="Button">Submit</button>
+                <br>
+                <span asp-validation-for="Username"></span><br>
+                <span asp-validation-for="Location"></span><br>
+                <span asp-validation-for="Language"></span><br>
+                <span asp-validation-for="Comments"></span>
+            </div>        
+        </form>
+    </div>
+</body>
+</html>

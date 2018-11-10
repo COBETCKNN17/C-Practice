@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dojo Dachi</title>
+    <meta charset='utf-8'/>
+    <link rel='stylesheet' type='text/css' href='~/css/styles.css'>
+</head>
+    <body>
+        <div id="wrapper">
+            <h3>Dachi</h3>
+        <span>Fullness: @ViewBag.Dachi.Fullness</span>
+        <span>Happiness: @ViewBag.Dachi.Happiness</span>
+        <span>Meals: @ViewBag.Dachi.Meals</span>
+        <span>Energy: @ViewBag.Dachi.Energy</span>
+        <span>@ViewBag.Reaction</span>
+        <span>@ViewBag.Message</span>
+        <div>
+            @{
+                if(ViewBag.GameStatus == "running")
+                {
+                    <div class="action" id="feed">
+                        <form action="/Action" method="post">
+                            <input type="hidden" value="feed" name="action">
+                            <button type="submit">Feed</button>
+                        </form>
+                    </div>
+                    <div class="action" id="play">
+                        <form action="/Action" method="post">
+                            <input type="hidden" value="play" name="action">
+                            <button type="submit">Play</button>
+                        </form>
+                    </div>
+                    <div class="action" id="work">
+                        <form action="/Action" method="post">
+                            <input type="hidden" value="work" name="action">
+                            <button type="submit">Work</button>
+                        </form>
+                    </div>
+                    <div class="action" id="sleep">
+                        <form action="/Action" method="post">
+                            <input type="hidden" value="sleep" name="action">
+                            <button type="submit">Sleep</button>
+                        </form>
+                    </div>
+                }
+                else if (ViewBag.GameStatus == "over")
+                {
+                    <div>
+                    <a href="/reset" method="post"><button>Reset?</button></a>
+                    </div>
+                }
+            }
+        </div>
+        </wrapper> 
+    </body>
+</html>

@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <title>Dojo Survey</title>
+    <meta charset='utf-8'/>
+    <link rel='stylesheet' type='text/css' href='~/css/styles.css'>
+</head>
+<body>
+<table>
+    <tr>
+        <td>Ninja</td> <br>
+        @foreach (var ninja in @ViewBag.Ninjas)
+    {
+    <tr>
+        <td>@ninja["name"]</td>
+        <td>@ninja["dojo"]</td>
+    </tr>
+    }
+        <td>Dojo</td>
+        @foreach (var dojo in @ViewBag.Dojos)
+    {
+    <tr>
+        <td>@dojo.name</td>
+        <td>@dojo</td>
+    </tr>
+    }
+    </tr>
+    
+</table>
+<form action="create_dojo" method="POST">
+    <p>Dojo Name<input type="text" placeholder="name" name="name"></p>
+    <p>Dojo Location<input type="text" placeholder="location" name="location"></p>
+    <p>Dojo Name<input type="text" placeholder="description" name="description"></p>
+    <input type="submit">
+</form>
+<div class="column">
+    <a href="/Dojos">Back to Dojos</a> &nbsp;&nbsp;
+    <a href="/Ninjas">Back to Ninjas</a>
+</div>
+</body>

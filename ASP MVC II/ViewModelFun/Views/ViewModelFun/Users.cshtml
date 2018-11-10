@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <meta charset='utf-8'/>
+        <link rel='stylesheet' type='text/css' href='~/css/styles.css'>
+       <title>Names</title>
+    </head>
+    <body>
+        @model string[]
+            <div id="title"><h3>The Users</h3></div>
+            <div id="users_list">
+            @{
+                foreach(var name in @Model)
+                {
+                    <p>@name</p>
+                }
+            }
+            </div>
+            
+    </body>
+</html>

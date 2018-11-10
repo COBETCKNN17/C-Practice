@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <title>Dojo Survey Result</title>
+        <meta description='Dojo Survey Results Page'>
+    <meta charset='utf-8'/>
+    <link rel='stylesheet' type='text/css' href='~/css/styles.css'>
+    <!-- <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script> -->
+    <!-- <script src='~/js/results.js'></script> -->
+</head>
+<body>
+    <form action="gobackbutton" method="get">
+        <div id='wrapper'>
+        @using DojoSurvey_Model.Models 
+        @model Survey
+        <div id="resultheader">
+            <h1>Dojo Survey</h1><br>
+            <h3>Submitted Info</h3><br>
+            <div id="resultslables">
+                <p>Name:</p>
+                <p>Dojo Location:</p>
+                <p>Favorite Language:</p>
+                <p>Comment:</p>
+            </div>
+            <div id="resultfields">
+                <p>@Model.name</p>
+                <p>@Model.location</p>
+                <p>@Model.language</p>
+                <p>@Model.comments</p>
+            </div>
+            <button type="submit" id="gobackbutton" value="Button">Go Back</button>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

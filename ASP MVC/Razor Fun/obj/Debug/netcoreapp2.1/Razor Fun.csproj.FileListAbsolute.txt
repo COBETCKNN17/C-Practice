@@ -1,0 +1,23 @@
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/bin/Debug/netcoreapp2.1/Razor Fun.deps.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/bin/Debug/netcoreapp2.1/Razor Fun.runtimeconfig.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/bin/Debug/netcoreapp2.1/Razor Fun.runtimeconfig.dev.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/bin/Debug/netcoreapp2.1/Razor Fun.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/bin/Debug/netcoreapp2.1/Razor Fun.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor Fun.csprojAssemblyReference.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor Fun.csproj.CoreCompileInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor Fun.RazorAssemblyInfo.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor Fun.RazorAssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor Fun.AssemblyInfoInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor Fun.AssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor Fun.RazorTargetAssemblyInfo.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor Fun.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor Fun.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/bin/Debug/netcoreapp2.1/Razor Fun.Views.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/bin/Debug/netcoreapp2.1/Razor Fun.Views.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor Fun.TagHelpers.input.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor Fun.TagHelpers.output.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor Fun.RazorCoreGenerate.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor Fun.RazorTargetAssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor Fun.Views.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor Fun.csproj.CopyComplete
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/ASP MVC/Razor Fun/obj/Debug/netcoreapp2.1/Razor/Views/Razor/Index.g.cshtml.cs
